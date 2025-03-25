@@ -1,0 +1,7 @@
+export { crearDeck } from './create-deck'
+export { pedirCarta } from './pedir-cartas'
+export { valorCarta } from './valor-carta'
+export { turnoComputadora } from './turno-computadora'
+export { crearCarta } from './crear-carta'
+export { acumularPuntos } from './acumular-puntos'
+export { determinarGanador } from './determinar-ganador'
